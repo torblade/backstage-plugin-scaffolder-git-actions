@@ -1,4 +1,4 @@
-import { createTemplateAction, executeShellCommand } from '@backstage/plugin-scaffolder-backend';
+import { createTemplateAction, executeShellCommand } from '@backstage/plugin-scaffolder-node';
 import path from 'path';
 
 export const gitAction = () => {

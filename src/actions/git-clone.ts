@@ -1,4 +1,4 @@
-import { createTemplateAction, executeShellCommand } from '@backstage/plugin-scaffolder-backend';
+import { createTemplateAction, executeShellCommand } from '@backstage/plugin-scaffolder-node';
 import * as fsPromises from 'fs/promises';
 import * as fs from 'fs';
 
